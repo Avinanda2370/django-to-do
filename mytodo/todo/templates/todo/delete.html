@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Are you certain you wish to delete this item "{{item}}" ? </h1>
+<a href="{% url 'hello'  %}" >Cancel</a>
+<a href="{% url 'delettodo' item.id  %}" >Confirm</a>
+
+</body>
+</html>
+
