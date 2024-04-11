@@ -72,3 +72,6 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 
 License
 The ToDo application is open-source software released under the MIT License. Feel free to use, modify, and distribute the code as needed.
+
+![Screenshot (336)](https://github.com/Avinanda2370/django-to-do/assets/102664151/9c2107ff-1326-462e-b56c-4bb3f9a885b2)
+
